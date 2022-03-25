@@ -33,4 +33,4 @@ I made use of the in-built corpora of the NLTK library of Python and picked out 
 Mail ID - aswinarv55[at][Gmail][dot][com]
 
 ### License
-Licensed under MIT License. [Click here](https://github.com/AswinRam4433/Projects/blob/main/LICENSE) to know more.
+Licensed under MIT License. [Click here](https://github.com/AswinRam4433/Wordle-Insights/blob/main/LICENSE) to know more.
