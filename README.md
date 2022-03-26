@@ -11,6 +11,9 @@ During the guesses, tiles will change colour to help players get the word. A gre
 ### Why this project?
 A fury of coloured tiles flooded the Whatsapp groups I was part of. At first, they made very little sense but after a quick Google search, I stumbled upon Wordle. The minimalistic design of the game and very simple rules of play appealed to me. So I decided to give Wordle a try. After a few days, I was hooked. I would countdown the amount of time I had left before the next Wordle would unlock. One such day, I was struggling to get the Wordle Of The Day. That's when I had the idea for this project.
 
+![image](https://user-images.githubusercontent.com/75494275/160243158-5f9eae4a-ed38-441d-b729-49439bd9f56e.png)
+
+
 ### Technologies Used
 - Python
 - Numpy
