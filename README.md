@@ -27,7 +27,7 @@ A fury of coloured tiles flooded the Whatsapp groups I was part of. At first, th
 
 
 ### What did I do in this project?
-I made use of the in-built corpora of the NLTK library of Python and picked out all the 5 letter words. Then I filtered out all the Wordle-legal words and began to look through them for interesting patterns to make tangible insights. Along the way, I used matlplotlib to depict information graphically. After looking at the heatmap showing the occurence of each letter at each position and after using online word unscramblers, I was able to arrive at the conclusion that RAINS, BLUEY and CHOMP are the three best words to start off with. I also arrived at the conclusion that a letter can repeat almost one-third of the time.
+I made use of the in-built corpora of the NLTK library of Python and picked out all the 5 letter words. Then I filtered out all the Wordle-legal words and began to look through them for interesting patterns to make tangible insights. Along the way, I used matlplotlib to depict information graphically. After looking at the heatmap showing the occurrence of each letter at each position and after using online word unscramblers, I was able to arrive at the conclusion that RAINS, BLUEY and CHOMP are the three best words to start off with. I also arrived at the conclusion that a letter can repeat almost one-third of the time.
 
 ### What did I learn in this project?
 - I learnt how to make use of the NLTK library in real-world scenarios. 
